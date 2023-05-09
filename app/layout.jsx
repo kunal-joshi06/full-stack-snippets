@@ -10,9 +10,6 @@ export const metadata = {
 
 const RootLayout = ({ children }) => (
   <html lang="en">
-    <head>
-      <link rel="shortcut icon" href="/assets/images/code.png" />
-    </head>
     <body>
       <Provider>
         <div className="main">
